@@ -1,6 +1,6 @@
 ## Hi, I'm Brooke (Xiaoxi) 👋
 
-I'm a Senior studying **Computer Science + Education** at the University of Illinois Urbana-Champaign, with a minor in **Statistics**.
+🧡💙 I'm a Senior studying **Computer Science + Education** at the University of Illinois Urbana-Champaign, with a minor in **Statistics**.
 
 📊 Interested in machine learning, educational data science, and learning analytics. Passionate about making learning more accessible and personalized through data and technology.
 
