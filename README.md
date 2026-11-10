@@ -17,9 +17,9 @@ Exploring human-centered AI through [research & design](https://github.com/brook
 
 ### 📚 Coursework
 
-- **C++ & Data Structures:** CS128 · CS225
-- **Computer Systems & Software Engineering:** CS340 · CS427
-- **Text Mining & Statistical Analysis:** CS410 · STAT212
+- **C++ & Data Structures:** [CS128](https://github.com/brookechen2026/cs128-object-oriented-programming) · [CS225](https://github.com/brookechen2026/cs225-data-structures)
+- **Computer Systems & Software Engineering:** [CS340](https://github.com/brookechen2026/cs340-computer-systems) · [CS427](https://github.com/brookechen2026/cs427-software-engineering)
+- **Text Mining & Statistical Analysis:** [CS410](https://github.com/brookechen2026/cs410-text-mining) · [STAT212](https://github.com/brookechen2026/stat212-biostats-data-analysis)
 
 ### 📫 Contact
 
